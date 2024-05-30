@@ -1,8 +1,8 @@
-# Hi 👋, I'm [Jason Sayeed](https://www.linkedin.com/in/jason-sayeed-17497b69/) <sub><sup><- click me</sup></sub>
+<h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/jason-sayeed-17497b69/">Jason Sayeed</a> <sub><sup><- click me</sup></sub></h1>
 
-email: jason.sayeed@gmail.com
+<h3 align="center">email: jason.sayeed@gmail.com</h3>
 
-## About Me 👋
+## About Me
 I am an enthusiastic Junior Software Developer with a background in software & hardware technical support. My background has enabled me to become an effective communicator in tech environments and develop valuable relationships when working in teams, as well establishing a strong foundation in troubleshooting and problem-solving. I recently completed the intensive Makers Software Development bootcamp gaining comprehensive training in coding and industry best practices. I’m a quick learner who is always eager to improve, which is why the challenge of venturing into the world of coding has been a positive and exciting experience for me."
 
 ## Technical Skills
