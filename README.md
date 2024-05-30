@@ -68,9 +68,9 @@ Summary:
 - Developed a strong Tier 2 level of understanding of the system and provided Level 2 support for customers and team members alike. 
 - Resolved complex customer inquiries and complaints in a timely and professional manner.
 
-### **Apple Ltd**
+### **Apple Ltd** - Mar 2014 to Jun 2017
 London, UK					        		       		       
-**Technical Manager/Specialist** - Mar 2014 to Jun 2017
+**Technical Manager/Specialist** 
 
 Summary:
 - Managed a team of 8 Technical Specialists to provide technical services, including software and hardware troubleshooting and repair. 
