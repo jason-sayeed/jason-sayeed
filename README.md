@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/jason-sayeed-17497b69/">Jason Sayeed</a> <sub><sup><- click me</sup></sub></h1>
+<h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/jason-sayeed-17497b69/">Jason Sayeed</a></h1>
 
 <h3 align="center">email: jason.sayeed@gmail.com</h3>
 
