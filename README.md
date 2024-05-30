@@ -58,6 +58,16 @@ London, UK
 
 ## Skills
 
+### Communication
+- In my last two roles, communication was the key skill that enabled me to excel. As a Technical Support Manager at OnSolve, I established strong working relationships with my team to ensure we provided the best support possible. This was achieved through open and honest dialogue and fostering an environment where there was no such thing as a stupid question. As a result, my team trusted me in times of need and knew my door was always open. My time as a Technical Manager/Specialist at Apple involved significant engagement with the public. While dealing with the public can seem like a stressful and arduous task, it instead helped me develop excellent listening skills and a genuine empathy for others.
+
+### Teamwork
+- Working in a team environment is where I thrive. Throughout my career, I have excelled in roles that involve collaborating with teams of varying sizes. I find that working alongside others brings out the best in me, as I enjoy the exchange of ideas and perspectives. In positions where I have held seniority within the team, a key focus of mine has always been to share my wealth of knowledge with new team members and those I manage.
+The group projects during my time at Makers were my first experiences in a software engineering environment. Despite this, I readily took on leadership roles when they were needed, and encouraged everyone to contribute ideas and thoughts in a kind and considerate manner. I ensured that every team member had a voice that was heard by asking others their opinion on topics discussed in our daily standups and meetings. One of my aims for these projects was for contributions in the team to feel equal and valued.
+
+### Problem Solving
+- 
+
 
 ## Work Experience
 
