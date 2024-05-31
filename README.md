@@ -8,39 +8,55 @@
   <a href="https://www.example.com/your-cv">
     <img src="https://img.shields.io/badge/My_CV-4CAF50?style=for-the-badge&logo=file&logoColor=white" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:jason.sayeed@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" height="40" style="display:inline-block;"/>
+  </a>
 </p>
 
 
+[About Me](#about-me) | [Technical Skills](#technical-skills) | [Projects](#projects) | [Coding Experience](#coding-experience) | [Skills](#skills) | [Work Experience](#work-experience) | [Education & Other](#education--other) | [Interests](#interests)
 
 
 
 ## About Me
+<a name="about-me"></a>
 I am an enthusiastic Junior Software Developer with a background in software & hardware technical support. My background has enabled me to become an effective communicator in tech environments and develop valuable relationships when working in teams, as well as establishing a strong foundation in troubleshooting and problem-solving. I recently completed the intensive Makers Software Engineering bootcamp, where I gained comprehensive training in coding and industry best practices. As a quick learner who is always eager to improve, venturing into the world of coding has been a positive and exciting experience for me."
 
 ## Technical Skills
-
 #### Programming Languages:
 [<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>](https://www.python.org/)
+&nbsp;
 [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+&nbsp;
 [<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="40"/>](https://swift.org/)
+&nbsp;
 [<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="40"/>](https://www.typescriptlang.org/)
+&nbsp;
 [<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+&nbsp;
 [<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 #### Databases (SQL and noSQL):
 [<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="40"/>](https://www.postgresql.org/)
+&nbsp;
 [<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="40"/>](https://www.mongodb.com/)
 
 #### Tools and Frameworks:
 [<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=2B2B2B" height="40"/>](https://reactjs.org/)
+&nbsp;
 [<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" height="40"/>](https://nodejs.org/)
+&nbsp;
 [<img src="https://img.shields.io/badge/Express-6C757D?style=for-the-badge&logo=express&logoColor=white" height="40"/>](https://expressjs.com/)
+&nbsp;
 [<img src="https://img.shields.io/badge/Flask-555555?style=for-the-badge&logo=flask&logoColor=white" height="40"/>](https://flask.palletsprojects.com/)
 
 
 #### Test-Driven Development:
 [<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="40"/>](https://docs.pytest.org/en/stable/)
+&nbsp;
 [<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="40"/>](https://jestjs.io/)
+&nbsp;
 [<img src="https://img.shields.io/badge/Vitest-6E4C9E?style=for-the-badge&logo=vitest&logoColor=white" height="40"/>](https://github.com/vivaxy/vitest)
 
 #### Other Skills:
@@ -50,10 +66,12 @@ I am an enthusiastic Junior Software Developer with a background in software & h
 
 
 ## Projects
+<a name="projects"></a>
+
 | Name                         | Description            | Timeframe  | Tech/tools        | Deployed |
 | ---------------------------- | ---------------------- | ---------- | ----------------- | -------- |
-| **[Kwizical](https://github.com/jason-sayeed/kwizical)** | Group project. <br> A music quiz web app | 10 days | `MongoDB`, `Express.js`, `React.js`, `Node.js`, `Tailwind CSS`, `vitest`, `Continuous Integration` `Continuous Deployment`  | https://kwizical.onrender.com/ |
-| **[Acebook](https://github.com/jason-sayeed/acebook-web)** | Group project <br> A social media web application (Facebook inspired). | 10 days | `MongoDB`, `Express.js`, `React.js`, `Node.js`, `HTML`, `CSS` | No |
+| **[Kwizical](https://github.com/jason-sayeed/kwizical)** | Group project. <br> A music quiz web app | 10 days | `MongoDB`, `Express.js`, `React.js`, `Node.js`, `Mongoose`, `Tailwind CSS`, `vitest`, `Continuous Integration`, `Continuous Deployment`, `Render`  | https://kwizical.onrender.com/ |
+| **[Acebook](https://github.com/jason-sayeed/acebook-web)** | Group project <br> A social media web application (Facebook inspired). | 10 days | `MongoDB`, `Express.js`, `React.js`, `Node.js`, `Mongoose`, `HTML`, `CSS` | No |
 | **[MakersBnB](https://github.com/jason-sayeed/makersbnb)** | Group project. <br> A short-term property rental platform (Airbnb inspired). | 5 days | `Python`, `Flask`, `Pytest`, `PostgreSQL`, `HTML`, `CSS` | No |
   
 ## Coding Experience
