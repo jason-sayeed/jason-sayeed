@@ -35,7 +35,7 @@
 ## About Me
 I am an enthusiastic Junior Software Developer with a background in software & hardware technical support. My background has enabled me to become an effective communicator in tech environments and develop valuable relationships when working in teams, as well as establishing a strong foundation in troubleshooting and problem-solving. I recently completed the intensive Makers Software Engineering bootcamp, where I gained comprehensive training in coding and industry best practices. As a quick learner who is always eager to improve, venturing into the world of coding has been a positive and exciting experience for me."
 
-<a href="#top">Back to Top</a>
+<a href="#top">↑ Back to Top ↑</a>
 
 ## Technical Skills
 #### Programming Languages:
@@ -77,7 +77,7 @@ I am an enthusiastic Junior Software Developer with a background in software & h
 - Agile Methodology
 - API Implementation
 
-<a href="#top">Back to Top</a>
+<a href="#top">↑ Back to Top ↑</a>
 
 ## Projects
 
@@ -87,7 +87,7 @@ I am an enthusiastic Junior Software Developer with a background in software & h
 | **[Acebook](https://github.com/jason-sayeed/acebook-web)** | Group project <br> A social media web application (Facebook inspired). | 10 days | `MongoDB`, `Express.js`, `React.js`, `Node.js`, `Mongoose`, `HTML`, `CSS` | No |
 | **[MakersBnB](https://github.com/jason-sayeed/makersbnb)** | Group project. <br> A short-term property rental platform (Airbnb inspired). | 5 days | `Python`, `Flask`, `Pytest`, `PostgreSQL`, `HTML`, `CSS` | No |
 
-<a href="#top">Back to Top</a>
+<a href="#top">↑ Back to Top ↑</a>
   
 ## Coding Experience
 
@@ -102,7 +102,7 @@ London, UK
 - Used Agile methodologies to manage project workflows and enhance team collaboration.
 - Learnt about web security, networking, and cloud technologies to ensure the development of clean, maintainable and efficient code.
 
-<a href="#top">Back to Top</a>
+<a href="#top">↑ Back to Top ↑</a>
 
 ## Skills
 
@@ -116,7 +116,7 @@ During my time at Makers, the group projects were my first experiences in a soft
 ### Problem Solving
 - At Apple I learnt very quickly about working to tight deadlines and I found learning key problem-solving techniques would help me achieve them. A few of the many techniques I acquired include breaking problems down into smaller, manageable parts, prioritizing problem isolation rather than addressing the symptoms, documenting problems and solutions for future reference and partnering with peers to get their opinion and advice when needed. Additionally, learning not to rush despite having deadlines to meet meant that I was able to focus better and work in a methodical way. I found this emphasis on methodical problem-solving was reinforced during my time at Makers through group projects and pair programming sessions. Many of my peers would become flustered or anxious when issues arose, often due to trying to rush through the problem-solving process.
 
-<a href="#top">Back to Top</a>
+<a href="#top">↑ Back to Top ↑</a>
 
 ## Work Experience
 
@@ -143,19 +143,19 @@ Summary:
 - Utilised analysis, experience and judgment ensuring each repair is completed by the right technician to a professional and high standard. 
 - Proactively monitored system performance and identified potential areas of improvement.
 
-<a href="#top">Back to Top</a>
+<a href="#top">↑ Back to Top ↑</a>
 
 ## Education & Other
 
 - **University of Hertfordshire**: BSc (Hons) Combined Programmes Electronic Music & Multimedia Communications
 - **Apple Authorised Hardware and Software Service Technician , ACMT**
 
-<a href="#top">Back to Top</a>
+<a href="#top">↑ Back to Top ↑</a>
 
 ## Interests
 Football | Skateboarding | Travelling | Movie and Music fan | Playing guitar (self taught)
 
-<a href="#top">Back to Top</a>
+<a href="#top"↑ Back to Top ↑</a>
 
 <!--
 **jason-sayeed/jason-sayeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
