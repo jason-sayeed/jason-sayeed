@@ -1,9 +1,21 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/jason-sayeed-17497b69/">Jason Sayeed</a></h1>
+<h1 align="center"> Hi 👋, I'm Jason Sayeed</h1>
 
-<h3 align="center">email: jason.sayeed@gmail.com</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jason-sayeed-17497b69/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+  </a>
+&nbsp;&nbsp;&nbsp;
+  <a href="https://www.example.com/your-cv">
+    <img src="https://img.shields.io/badge/My_CV-4CAF50?style=for-the-badge&logo=file&logoColor=white" height="40"/>
+  </a>
+</p>
+
+
+
+
 
 ## About Me
-I am an enthusiastic Junior Software Developer with a background in software & hardware technical support. My background has enabled me to become an effective communicator in tech environments and develop valuable relationships when working in teams, as well establishing a strong foundation in troubleshooting and problem-solving. I recently completed the intensive Makers Software Development bootcamp gaining comprehensive training in coding and industry best practices. I’m a quick learner who is always eager to improve, which is why the challenge of venturing into the world of coding has been a positive and exciting experience for me."
+I am an enthusiastic Junior Software Developer with a background in software & hardware technical support. My background has enabled me to become an effective communicator in tech environments and develop valuable relationships when working in teams, as well as establishing a strong foundation in troubleshooting and problem-solving. I recently completed the intensive Makers Software Engineering bootcamp, where I gained comprehensive training in coding and industry best practices. As a quick learner who is always eager to improve, venturing into the world of coding has been a positive and exciting experience for me."
 
 ## Technical Skills
 
@@ -20,10 +32,11 @@ I am an enthusiastic Junior Software Developer with a background in software & h
 [<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="40"/>](https://www.mongodb.com/)
 
 #### Tools and Frameworks:
+[<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=2B2B2B" height="40"/>](https://reactjs.org/)
 [<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" height="40"/>](https://nodejs.org/)
-[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="40"/>](https://reactjs.org/)
-[<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="40"/>](https://expressjs.com/)
-[<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="40"/>](https://flask.palletsprojects.com/)
+[<img src="https://img.shields.io/badge/Express-6C757D?style=for-the-badge&logo=express&logoColor=white" height="40"/>](https://expressjs.com/)
+[<img src="https://img.shields.io/badge/Flask-555555?style=for-the-badge&logo=flask&logoColor=white" height="40"/>](https://flask.palletsprojects.com/)
+
 
 #### Test-Driven Development:
 [<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="40"/>](https://docs.pytest.org/en/stable/)
@@ -39,9 +52,9 @@ I am an enthusiastic Junior Software Developer with a background in software & h
 ## Projects
 | Name                         | Description            | Timeframe  | Tech/tools        | Deployed |
 | ---------------------------- | ---------------------- | ---------- | ----------------- | -------- |
-| **[Kwizical](https://github.com/jason-sayeed/kwizical)** | Makers final group project. <br> A music quiz web app | 10 days | `MongoDB`, `Express.js`, `React.js`, `Node.js`, `Tailwind CSS`, `vitest`, `Continuous Integration` `Continuous Deployment`  | https://kwizical.onrender.com/ |
-| **[Acebook](https://github.com/jason-sayeed/acebook-web)** | Makers 2nd group project <br> A social media web application (Facebook inspired). | 10 days | `MongoDB`, `Express.js`, `React.js`, `Node.js`, `HTML`, `CSS` | No |
-| **[MakersBnB](https://github.com/jason-sayeed/makersbnb)** | Makers 1st group project. <br> A short-term property rental platform (Airbnb inspired). | 5 days | `Python`, `Flask`, `Pytest`, `PostgreSQL`, `HTML`, `CSS` | No |
+| **[Kwizical](https://github.com/jason-sayeed/kwizical)** | Group project. <br> A music quiz web app | 10 days | `MongoDB`, `Express.js`, `React.js`, `Node.js`, `Tailwind CSS`, `vitest`, `Continuous Integration` `Continuous Deployment`  | https://kwizical.onrender.com/ |
+| **[Acebook](https://github.com/jason-sayeed/acebook-web)** | Group project <br> A social media web application (Facebook inspired). | 10 days | `MongoDB`, `Express.js`, `React.js`, `Node.js`, `HTML`, `CSS` | No |
+| **[MakersBnB](https://github.com/jason-sayeed/makersbnb)** | Group project. <br> A short-term property rental platform (Airbnb inspired). | 5 days | `Python`, `Flask`, `Pytest`, `PostgreSQL`, `HTML`, `CSS` | No |
   
 ## Coding Experience
 
@@ -63,11 +76,10 @@ London, UK
 
 ### Teamwork
 - Working in a team environment is where I thrive. Throughout my career, I have excelled in roles that involve collaborating with teams of varying sizes. I find that working alongside others brings out the best in me, as I enjoy the exchange of ideas and perspectives. In positions where I have held seniority within the team, a key focus of mine has always been to share my wealth of knowledge with new team members and those I manage.
-The group projects during my time at Makers were my first experiences in a software engineering environment. Despite this, I readily took on leadership roles when they were needed, and encouraged everyone to contribute ideas and thoughts in a kind and considerate manner. I ensured that every team member had a voice that was heard by asking others their opinion on topics discussed in our daily standups and meetings. One of my aims for these projects was for contributions in the team to feel equal and valued.
+During my time at Makers, the group projects were my first experiences in a software engineering environment. Despite this, I readily took on leadership roles when they were needed, and encouraged everyone to contribute ideas and thoughts in a kind and considerate manner. I ensured that every team member had a voice that was heard by asking others their opinion on topics discussed in our daily standups and meetings. One of my aims for these projects was for contributions in the team to feel equal and valued.
 
 ### Problem Solving
-- 
-
+- At Apple I learnt very quickly about working to tight deadlines and I found learning key problem-solving techniques would help me achieve them. A few of the many techniques I acquired include breaking problems down into smaller, manageable parts, prioritizing problem isolation rather than addressing the symptoms, documenting problems and solutions for future reference and partnering with peers to get their opinion and advice when needed. Additionally, learning not to rush despite having deadlines to meet meant that I was able to focus better and work in a methodical way. I found this emphasis on methodical problem-solving was reinforced during my time at Makers through group projects and pair programming sessions. Many of my peers would become flustered or anxious when issues arose, often due to trying to rush through the problem-solving process.
 
 ## Work Experience
 
