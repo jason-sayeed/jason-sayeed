@@ -20,7 +20,6 @@
 
 
 ## About Me
-<a name="about-me"></a>
 I am an enthusiastic Junior Software Developer with a background in software & hardware technical support. My background has enabled me to become an effective communicator in tech environments and develop valuable relationships when working in teams, as well as establishing a strong foundation in troubleshooting and problem-solving. I recently completed the intensive Makers Software Engineering bootcamp, where I gained comprehensive training in coding and industry best practices. As a quick learner who is always eager to improve, venturing into the world of coding has been a positive and exciting experience for me."
 
 ## Technical Skills
@@ -66,7 +65,6 @@ I am an enthusiastic Junior Software Developer with a background in software & h
 
 
 ## Projects
-<a name="projects"></a>
 
 | Name                         | Description            | Timeframe  | Tech/tools        | Deployed |
 | ---------------------------- | ---------------------- | ---------- | ----------------- | -------- |
