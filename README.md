@@ -4,20 +4,33 @@
   <a href="https://www.linkedin.com/in/jason-sayeed-17497b69/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
   </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.example.com/your-cv">
     <img src="https://img.shields.io/badge/My_CV-4CAF50?style=for-the-badge&logo=file&logoColor=white" height="40"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:jason.sayeed@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" height="40" style="display:inline-block;"/>
   </a>
 </p>
 
-
-[About Me](#about-me) | [Technical Skills](#technical-skills) | [Projects](#projects) | [Coding Experience](#coding-experience) | [Skills](#skills) | [Work Experience](#work-experience) | [Education & Other](#education--other) | [Interests](#interests)
-
-
+#
+[About Me](#about-me)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Technical Skills](#technical-skills)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Projects](#projects)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Coding Experience](#coding-experience)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Skills](#skills)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Work Experience](#work-experience)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Education & Other](#education--other)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Interests](#interests)
+#
 
 ## About Me
 I am an enthusiastic Junior Software Developer with a background in software & hardware technical support. My background has enabled me to become an effective communicator in tech environments and develop valuable relationships when working in teams, as well as establishing a strong foundation in troubleshooting and problem-solving. I recently completed the intensive Makers Software Engineering bootcamp, where I gained comprehensive training in coding and industry best practices. As a quick learner who is always eager to improve, venturing into the world of coding has been a positive and exciting experience for me."
