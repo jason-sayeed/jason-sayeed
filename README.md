@@ -6,7 +6,8 @@
   </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.example.com/your-cv">
-    <img src="https://img.shields.io/badge/My_CV-4CAF50?style=for-the-badge&logo=file&logoColor=white" height="40"/>
+ <img src="https://img.shields.io/badge/My_CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="40"/>
+</a>
   </a>
 <!--   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:jason.sayeed@gmail.com">
