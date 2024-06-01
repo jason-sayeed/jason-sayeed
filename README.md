@@ -36,44 +36,24 @@
 I am an enthusiastic Junior Software Developer with a background in software & hardware technical support. My background has enabled me to become an effective communicator in tech environments and develop valuable relationships when working in teams, as well as establishing a strong foundation in troubleshooting and problem-solving. I recently completed the intensive Makers Software Engineering bootcamp, where I gained comprehensive training in coding and industry best practices. As a quick learner who is always eager to improve, venturing into the world of coding has been a positive and exciting experience for me.
 
 ## Technical Skills
-#### Programming Languages:
-[<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>](https://www.python.org/)
-&nbsp;
-[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-&nbsp;
-[<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="40"/>](https://swift.org/)
-&nbsp;
-[<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="40"/>](https://www.typescriptlang.org/)
-&nbsp;
-[<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-&nbsp;
-[<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+| Programming Languages | Databases (SQL and noSQL) | Tools and Frameworks | Test-Driven Development | Web Development Technologies |
+| ---------------------- | ------------------------- | -------------------- | ----------------------- | --------------------------- |
+| <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" height="40" style="vertical-align: middle;"></span> </div> | <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge" height="40"></span> </div> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge" height="40"></span> </div> | <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original-wordmark.svg" alt="Pytest Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge" height="40"></span> </div> | <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge" height="40"></span> </div>  |
+| <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge" height="40"></span> </div> | <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge" height="40"></span> </div> | <div align="center"> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="40" style="background-color: white;"> </div> | <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge" height="40"></span> </div> | <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5 Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge" height="40"></span> </div> |
+| <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge" height="40"></span> </div> | | <div align="center"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="40" style="background-color: white;"> </div> | <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" alt="Vitest Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/Vitest-6E4C9E?style=for-the-badge" height="40"></span> </div> | <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3 Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge" height="40"></span> </div> |
+| <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge" height="40"></span> </div> | |  | | |
 
-#### Databases (SQL and noSQL):
-[<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="40"/>](https://www.postgresql.org/)
-&nbsp;
-[<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="40"/>](https://www.mongodb.com/)
 
-#### Tools and Frameworks:
-[<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=2B2B2B" height="40"/>](https://reactjs.org/)
-&nbsp;
-[<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" height="40"/>](https://nodejs.org/)
-&nbsp;
-[<img src="https://img.shields.io/badge/Express-6C757D?style=for-the-badge&logo=express&logoColor=white" height="40"/>](https://expressjs.com/)
-&nbsp;
-[<img src="https://img.shields.io/badge/Flask-555555?style=for-the-badge&logo=flask&logoColor=white" height="40"/>](https://flask.palletsprojects.com/)
 
-#### Test-Driven Development:
-[<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" height="40"/>](https://docs.pytest.org/en/stable/)
-&nbsp;
-[<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="40"/>](https://jestjs.io/)
-&nbsp;
-[<img src="https://img.shields.io/badge/Vitest-6E4C9E?style=for-the-badge&logo=vitest&logoColor=white" height="40"/>](https://github.com/vivaxy/vitest)
 
-#### Other Skills:
+
+#### Other Technical Skills:
 - Pair Programming
 - Agile Methodology
 - API Implementation
+
+
+
 
 <a href="#top">↑ Back to Menu ↑</a>
 
