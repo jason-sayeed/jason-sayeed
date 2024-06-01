@@ -33,7 +33,9 @@
 #
 
 ## About Me
-I am an enthusiastic Junior Software Developer with a background in software & hardware technical support. My background has enabled me to become an effective communicator in tech environments and develop valuable relationships when working in teams, as well as establishing a strong foundation in troubleshooting and problem-solving. I recently completed the intensive Makers Software Engineering bootcamp, where I gained comprehensive training in coding and industry best practices. As a quick learner who is always eager to improve, venturing into the world of coding has been a positive and exciting experience for me.
+I am an enthusiastic Junior Software Developer with a background in software & hardware technical support. My background has enabled me to become an effective communicator in tech environments and develop valuable relationships when working in teams, as well as establishing a strong foundation in troubleshooting and problem-solving. I recently completed the intensive Makers Software Engineering bootcamp, where I gained comprehensive training in coding and industry best practices. As a quick learner who is always eager to improve, venturing into the world of coding has been a positive and exciting experience for me. I'm open to opportunities that involve learning new languages and technologies.
+
+I'm currently learning Typescript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript Icon" height="20" style="vertical-align: middle;"> and improving my projects.
 
 ## Technical Skills
 | Programming Languages | Databases (SQL and noSQL) | Web Development Technologies | Tools and Frameworks | Test-Driven Development |
@@ -67,7 +69,7 @@ London, UK
 
 - Learnt new coding languages from scratch (Python, JavaScript & Swift).
 - Acquired practical experience with test-driven development (TDD) and object-oriented programming (OOP).
-- Built multiple full stack projects utilising the languages learned above and frameworks mentioned above.
+- Built multiple full stack projects utilising the languages and frameworks mentioned above.
 - Worked as part of a team (Agile scrum environment) on the above projects, using Github for code collaboration and implemented CI-CD when possible.
 - Used Agile methodologies to manage project workflows and enhance team collaboration.
 - Learnt about web security, networking, and cloud technologies to ensure the development of clean, maintainable and efficient code.
