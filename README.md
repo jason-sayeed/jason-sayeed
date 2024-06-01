@@ -139,9 +139,9 @@ Summary:
 <br>
 
 # Interests
-- 📱💻 Tech - I've always been passionate about technology. From a young age, I was the go-to person for family and friends seeking software and hardware tech advice and support. This passion intensified during my time at Apple, where I was surrounded by cutting-edge tech on a daily basis.
-- 🎮 Gaming - I was a massive console gamer when I was younger and would religiously play classics such as Tony Hawk's Pro Skater and Guitar Hero games. I've also thoroughly enjoyed modern franchises such as Halo, Hitman and the Batman Arkham series.
-- Music 🎸 - I taught myself guitar in my early teens and played in multiple bands until my late twenties. I also was a frequent gig and festival goer throughout my twenties and early thirties.
+- 📱💻 Tech - I've always been passionate about technology. From a young age, I was the go-to person for family and friends when they needed software and hardware tech advice and support. This passion intensified during my time at Apple, where I was surrounded by cutting-edge tech on a daily basis.
+- 🎮 Gaming - I was a massive console gamer when I was growing up. Games like Tony Hawk's Pro Skater and Guitar Hero consumed my free time in my teens. I've also thoroughly enjoyed modern franchises such as Halo, Hitman and the Batman Arkham series. Lately, retro games have always been a nostalgic ride for me."
+- Music 🎸 - My ability to self learn and perseverance with new challenges stems from when I taught myself guitar in my early teens. It is passion I wasn't going to give up on no matter what. I played in multiple bands until my late twenties and unknowingly it taught me the value of teamwork. I also was a frequent gig and festival goer throughout my twenties and early thirties.
 
 <a href="#top">↑ Back to Menu ↑</a>
 
