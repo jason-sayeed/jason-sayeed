@@ -8,10 +8,10 @@
   <a href="https://www.example.com/your-cv">
     <img src="https://img.shields.io/badge/My_CV-4CAF50?style=for-the-badge&logo=file&logoColor=white" height="40"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:jason.sayeed@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" height="40" style="display:inline-block;"/>
-  </a>
+  </a> -->
 </p>
 
 #
@@ -37,6 +37,7 @@ I am an enthusiastic Junior Software Developer with a background in software & h
 
 - 🔭 I’m currently working on improving my projects which can be found below.
 - 🌱 I’m currently learning Typescript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript Icon" height="20" style="vertical-align: middle;">
+- 📫 How to reach me: jason.sayeed@gmail.com
 
 ## Technical Skills
 | Programming Languages | Databases (SQL and noSQL) | Web Development Technologies | Tools and Frameworks | Test-Driven Development |
