@@ -35,7 +35,7 @@
 ## About Me
 I am an enthusiastic Junior Software Developer with a background in software & hardware technical support. My background has enabled me to become an effective communicator in tech environments and develop valuable relationships when working in teams, as well as establishing a strong foundation in troubleshooting and problem-solving. I recently completed the intensive Makers Software Engineering bootcamp, where I gained comprehensive training in coding and industry best practices. As a quick learner who is always eager to improve, venturing into the world of coding has been a positive and exciting experience for me. I'm open to opportunities that involve learning new languages and technologies.
 
-- 🔭 I’m currently working on improving my projects below.
+- 🔭 I’m currently working on improving my projects which can be found below.
 - 🌱 I’m currently learning Typescript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript Icon" height="20" style="vertical-align: middle;">
 
 ## Technical Skills
