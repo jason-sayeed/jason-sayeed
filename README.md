@@ -33,28 +33,31 @@
 [Interests](#interests)
 #
 
-## About Me
+# About Me
 I am an enthusiastic Junior Software Developer with a background in software & hardware technical support. My background has enabled me to become an effective communicator in tech environments and develop valuable relationships when working in teams, as well as establishing a strong foundation in troubleshooting and problem-solving. I recently completed the intensive Makers Software Engineering bootcamp, where I gained comprehensive training in coding and industry best practices. As a quick learner who is always eager to improve, venturing into the world of coding has been a positive and exciting experience for me. I'm open to opportunities that involve learning new languages and technologies.
 
 - 🔭 I’m currently revisiting my completed projects below to add functionality and explore ways to improve them further.
 - 🌱 I’m currently learning Typescript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript Icon" height="20" style="vertical-align: middle;">
 - 📫 How to reach me: jason.sayeed@gmail.com
 
-## Technical Skills
-| Programming Languages | Databases (SQL and noSQL) | Web Development Technologies | Tools and Frameworks | Test-Driven Development |
+<br>
+
+# Technical Skills
+| Programming Languages | Databases (SQL and noSQL) | Web Development Technologies | Backend Development Tools and Frameworks | Test-Driven Development |
 | ---------------------- | ------------------------- | --------------------------- | -------------------- | ----------------------- |
 | <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" height="40" style="vertical-align: middle;"></span> </div> | <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge" height="40"></span> </div> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge" height="40"></span> </div>  | <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge" height="40"></span> </div> | <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original-wordmark.svg" alt="Pytest Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge" height="40"></span> </div> |
 | <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge" height="40"></span> </div> | <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge" height="40"></span> </div> | <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5 Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge" height="40"></span> </div> | <div align="center"> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" height="40" style="background-color: white;"> </div> | <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge" height="40"></span> </div> |
 | <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge" height="40"></span> </div> | | <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3 Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge" height="40"></span> </div> | <div align="center"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="40" style="background-color: white;"> </div> | <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" alt="Vitest Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/Vitest-6E4C9E?style=for-the-badge" height="40"></span> |
-| <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge" height="40"></span> </div> | |  | | |
-
+| <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge" height="40"></span> </div> | | | <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" alt="Mongoose Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge" height="40"></span> </div> | |
 
 ### Other Technical Skills:
 Pair Programming, Agile Methodologies & API Implementation
 
 <a href="#top">↑ Back to Menu ↑</a>
 
-## Projects
+<br>
+
+# Projects
 
 | **Name** | **Description** | **Timeframe** | **Tech/tools** | **Deployed** |
 | :-------:| :--------------:| :-----------: | :------------: | :----------: |
@@ -63,8 +66,10 @@ Pair Programming, Agile Methodologies & API Implementation
 | [<center>MakersBnB</center>](https://github.com/jason-sayeed/makersbnb) | <center>Group project, <br> a short-term property rental platform (Airbnb inspired).</center> | <center>5 days</center> | <center>Python, Flask, Pytest, PostgreSQL, HTML, CSS</center> | <center>No</center> |
 
 <a href="#top">↑ Back to Menu ↑</a>
+
+<br>
   
-## Coding Experience
+# Coding Experience
 
 ### **Makers Academy** - Jan 2024 – May 2024
 London, UK					        		       		       
@@ -79,7 +84,9 @@ London, UK
 
 <a href="#top">↑ Back to Menu ↑</a>
 
-## Skills
+<br>
+
+# Skills
 
 ### Communication
 - In my last two roles, communication was the key skill that enabled me to excel. As a Technical Support Manager at OnSolve, I established strong working relationships with my team to ensure we provided the best support possible. This was achieved through open and honest dialogue and fostering an environment where there was no such thing as a stupid question. As a result, my team trusted me in times of need and knew my door was always open. My time as a Technical Manager/Specialist at Apple involved significant engagement with the public. While dealing with the public can seem like a stressful and arduous task, it instead helped me develop excellent listening skills and a genuine empathy for others.
@@ -93,7 +100,9 @@ During my time at Makers, the group projects were my first experiences in a soft
 
 <a href="#top">↑ Back to Menu ↑</a>
 
-## Work Experience
+<br>
+
+# Work Experience
 
 ### **OnSolve** - Jun 2017 to Nov 2023
 London, UK					        		       		       
@@ -120,12 +129,16 @@ Summary:
 
 <a href="#top">↑ Back to Menu ↑</a>
 
-## Education & Other
+<br>
+
+# Education & Other
 
 - **University of Hertfordshire**: BSc (Hons) Combined Programmes Electronic Music & Multimedia Communications
 - **Apple Authorised Hardware and Software Service Technician , ACMT**
 
-## Interests
+<br>
+
+# Interests
 Football | Skateboarding | Travelling | Movie and Music fan | Playing guitar (self taught)
 
 <a href="#top">↑ Back to Menu ↑</a>
