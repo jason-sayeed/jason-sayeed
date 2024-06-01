@@ -56,11 +56,11 @@ Pair Programming, Agile Methodologies & API Implementation
 
 ## Projects
 
-| Name                         | Description            | Timeframe  | Tech/tools        | Deployed |
-| ---------------------------- | ---------------------- | ---------- | ----------------- | -------- |
-| **[Kwizical](https://github.com/jason-sayeed/kwizical)** | Group project. <br> A music quiz web app | 10 days | `MongoDB`, `Express.js`, `React.js`, `Node.js`, `Mongoose`, `Tailwind CSS`, `vitest`, `Continuous Integration`, `Continuous Deployment`, `Render`  | https://kwizical.onrender.com/ |
-| **[Acebook](https://github.com/jason-sayeed/acebook-web)** | Group project <br> A social media web application (Facebook inspired). | 10 days | `MongoDB`, `Express.js`, `React.js`, `Node.js`, `Mongoose`, `HTML`, `CSS` | No |
-| **[MakersBnB](https://github.com/jason-sayeed/makersbnb)** | Group project. <br> A short-term property rental platform (Airbnb inspired). | 5 days | `Python`, `Flask`, `Pytest`, `PostgreSQL`, `HTML`, `CSS` | No |
+| **Name** | **Description** | **Timeframe** | **Tech/tools** | **Deployed** |
+| :-------:| :--------------:| :-----------: | :------------: | :----------: |
+| [<center>Kwizical</center>](https://github.com/jason-sayeed/kwizical) | <center>Group project, <br> a music quiz web app.</center> | <center>10 days</center> | <center>MongoDB, Express.js, React.js, Node.js, Mongoose, Tailwind CSS, vitest, Continuous Integration, Continuous Deployment, Render</center> | <center>[https://kwizical.onrender.com/](https://kwizical.onrender.com/)</center> |
+| [<center>Acebook</center>](https://github.com/jason-sayeed/acebook-web) | <center>Group project, <br> a social media web application (Facebook inspired).</center> | <center>10 days</center> | <center>MongoDB, Express.js, React.js, Node.js, Mongoose, HTML, CSS</center> | <center>No</center> |
+| [<center>MakersBnB</center>](https://github.com/jason-sayeed/makersbnb) | <center>Group project, <br> a short-term property rental platform (Airbnb inspired).</center> | <center>5 days</center> | <center>Python, Flask, Pytest, PostgreSQL, HTML, CSS</center> | <center>No</center> |
 
 <a href="#top">↑ Back to Menu ↑</a>
   
