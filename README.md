@@ -75,7 +75,7 @@ Pair Programming, Agile Methodologies & API Implementation
 
 ### **Makers Academy** - Jan 2024 – May 2024
 London, UK					        		       		       
-**Software Engineering Student** 
+**Software Development Student** 
 
 - Learnt new coding languages from scratch (Python, JavaScript & Swift).
 - Acquired practical experience with test-driven development (TDD) and object-oriented programming (OOP).
