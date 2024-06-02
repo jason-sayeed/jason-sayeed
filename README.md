@@ -77,12 +77,13 @@ Pair Programming, Agile Methodologies & API Implementation
 London, UK					        		       		       
 **Software Development Student** 
 
-- Learnt new coding languages from scratch (Python, JavaScript & Swift).
+- Full stack software development bootcamp.
+- Learned Python, JavaScript & Swift from scratch.
 - Acquired practical experience with test-driven development (TDD) and object-oriented programming (OOP).
-- Built multiple full stack projects utilising the languages and frameworks mentioned above.
+- Built multiple full stack projects utilising the languages, frameworks, libraries and tools mentioned above.
 - Worked as part of a team (Agile scrum environment) on the above projects, using Github for code collaboration and implemented CI-CD when possible.
 - Used Agile methodologies to manage project workflows and enhance team collaboration.
-- Learnt about web security, networking, and cloud technologies to ensure the development of clean, maintainable and efficient code.
+- Learned about web security, networking, and cloud technologies to ensure the development of clean, maintainable and efficient code.
 
 <a href="#top">↑ Back to Menu ↑</a>
 
@@ -113,8 +114,8 @@ London, UK
 Summary:
 - Project managed new client implementations supporting the client with data management, system configuration and testing.
 - Identified, diagnosed, and isolated customer-affecting issues, understanding the differences between network infrastructure and software application problems. 
-- Managed a team of 2 customer support representatives to ensure customer satisfaction and timely resolution of customer inquiries. 
-- Developed a strong Tier 2 level of understanding of the system and provided Level 2 support for customers and team members alike. 
+- Managed a team of 2 support representatives, ensuring timely resolution of inquiries.
+- Developed a strong Tier 2 level of understanding of the system.
 - Resolved complex customer inquiries and complaints in a timely and professional manner.
 
 ### **Apple Ltd** - Mar 2014 to Jun 2017
@@ -127,7 +128,6 @@ Summary:
 - Coordinated complex projects and delegated tasks to team members to ensure timely completion.
 - Mentored the wider team on new and current processes to reduce systematic errors and delays. 
 - Utilised analysis, experience and judgment ensuring each repair is completed by the right technician to a professional and high standard. 
-- Proactively monitored system performance and identified potential areas of improvement.
 
 <a href="#top">↑ Back to Menu ↑</a>
 
