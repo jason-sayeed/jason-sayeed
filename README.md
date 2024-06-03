@@ -6,7 +6,7 @@
   </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/jason-sayeed/jason-sayeed/blob/main/Jason%20Sayeed%20CV.pdf">
- <img src="https://img.shields.io/badge/My_CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="40"/>
+ <img src="https://img.shields.io/badge/My_CV-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="40"/>
 </a>
   </a>
 <!--   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
