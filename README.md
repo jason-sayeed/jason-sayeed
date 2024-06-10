@@ -63,7 +63,7 @@ Pair Programming, Agile Methodologies & API Implementation
 
 | **Name** | **Description** | **Timeframe** | **Tech/tools** | **Deployed** |
 | :-------:| :--------------:| :-----------: | :------------: | :----------: |
-| [<center>Kwizical</center>](https://github.com/jason-sayeed/kwizical) | <center>Group project, <br> a music quiz web app.</center> | <center>10 days</center> | <center>MongoDB, Express.js, React.js, Node.js, Mongoose, Tailwind CSS, vitest, Continuous Integration, Continuous Deployment, Render</center> | <center>[https://kwizical.onrender.com/](https://kwizical.onrender.com/)</center> |
+| [<center>Kwizical</center>](https://github.com/katrinamichanicou/kwizical-mern) | <center>Group project, <br> a music quiz web app.</center> | <center>10 days</center> | <center>MongoDB, Express.js, React.js, Node.js, Mongoose, Tailwind CSS, vitest, Continuous Integration, Continuous Deployment, Render</center> | <center>[https://kwizical.onrender.com/](https://kwizical.onrender.com/)</center> |
 | [<center>Acebook</center>](https://github.com/jason-sayeed/acebook-web) | <center>Group project, <br> a social media web application (Facebook inspired).</center> | <center>10 days</center> | <center>MongoDB, Express.js, React.js, Node.js, Mongoose, HTML, CSS</center> | <center>No</center> |
 | [<center>MakersBnB</center>](https://github.com/jason-sayeed/makersbnb) | <center>Group project, <br> a short-term property rental platform (Airbnb inspired).</center> | <center>5 days</center> | <center>Python, Flask, Pytest, PostgreSQL, HTML, CSS</center> | <center>No</center> |
 
