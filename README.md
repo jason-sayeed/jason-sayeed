@@ -102,7 +102,9 @@ During my time at Makers, the group projects were my first experiences in a soft
 
 ### Problem Solving
 - At Apple I learnt very quickly about working to tight deadlines and I found learning key problem-solving techniques were essential in achieving them. A few of the many techniques I acquired include breaking problems down into smaller, manageable parts, prioritizing problem isolation rather than addressing the symptoms, documenting problems and solutions for future reference and partnering with peers to get their opinion and advice when needed. Additionally, learning not to rush despite having deadlines to meet meant that I was able to focus better and work methodically.
-This emphasis on methodical problem-solving was reinforced during my time at Makers through group projects and pair programming sessions. Challenges were inevitable, but I maintained a calm and methodical approach, following systematic steps to help my pair and my team overcome them. 
+Often, when new hardware was released at short notice, I found myself in appointments where I wasn't completely sure of the root cause of the issue or the right solution due to my lack of experience. Instead of panicking, I utilized the tools around me. If time permitted, I asked other technicians if they had encountered the issue before and their solutions. When time was limited, I booked the machine in for further investigation. This allowed me isolated time to break the problem down, consult repair guides and documentation, and pair with senior team members to learn from them and exchange ideas.
+This emphasis on methodical problem-solving was reinforced during my time at Makers through group projects and pair programming sessions. Challenges were inevitable, but I maintained a calm and methodical approach, following systematic steps to help my pair and my team overcome them.
+ 
 
 <a href="#top">↑ Back to Menu ↑</a>
 
