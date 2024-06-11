@@ -34,7 +34,7 @@
 #
 
 # About Me
-I am an enthusiastic Junior Software Developer with a solid background in software and hardware technical support. With ten years of experience in diagnosing and resolving complex technical issues, I have developed expertise in leading and managing technical support teams to ensure efficient service delivery and high standards of performance. This background has enabled me to become an effective communicator in tech environments, foster valuable relationships within teams, and establish a strong foundation in troubleshooting and problem-solving.
+I am an enthusiastic Junior Software Developer with a solid background in software and hardware technical support. With over ten years of experience in diagnosing and resolving complex technical issues, I have developed expertise in leading and managing technical support teams to ensure efficient service delivery and high standards of performance. This background has enabled me to become an effective communicator in tech environments, foster valuable relationships within teams, and establish a strong foundation in troubleshooting and problem-solving.
 Recently, I completed the intensive Makers Software Development bootcamp, where I gained comprehensive training in coding and industry best practices.
 
 I'm open to opportunities that involve learning new languages and technologies.
