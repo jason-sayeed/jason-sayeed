@@ -66,6 +66,7 @@ Pair Programming, Agile Methodologies & API Implementation
 
 | **Name** | **Description** | **Timeframe** | **Tech/tools** | **Deployed** |
 | :-------:| :--------------:| :-----------: | :------------: | :----------: |
+| [<center>Task Manager</center>](https://github.com/jason-sayeed/task-manager) | <center> A training booking API </center> | <center>10 days</center> | TypeScript, Express.js, Node.js, MongoDB, Mongoose </center>  | <center>No</center> |
 | [<center>Task Manager</center>](https://github.com/jason-sayeed/task-manager) | <center> A task manager web app</center> | <center>7 days</center> | TypeScript, MySQL, Express.js, React.js, Node.js, TypeORM, Material UI </center>  | <center>No</center> |
 | [<center>Kwizical</center>](https://github.com/katrinamichanicou/kwizical-mern) | <center>Group project, <br> a music quiz web app.</center> | <center>10 days</center> | <center>MongoDB, Express.js, React.js, Node.js, Mongoose, Tailwind CSS, Vitest, Continuous Integration, Continuous Deployment, Render</center> | <center>[https://kwizical-game.onrender.com/](https://kwizical-game.onrender.com/)</center> |
 | [<center>Acebook</center>](https://github.com/jason-sayeed/acebook-web) | <center>Group project, <br> a social media web application (Facebook inspired).</center> | <center>10 days</center> | <center>MongoDB, Express.js, React.js, Node.js, Mongoose, HTML, CSS</center> | <center>No</center> |
