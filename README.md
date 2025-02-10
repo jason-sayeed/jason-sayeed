@@ -29,8 +29,6 @@
 [Work Experience](#work-experience)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Education & Other](#education--other)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Interests](#interests)
 #
 
 # About Me
@@ -149,11 +147,6 @@ Summary:
 - **Apple Authorised Hardware and Software Service Technician , ACMT**
 
 <br>
-
-# Interests
-- 📱💻 Tech - I've always been passionate about techn. Driven by my curiosity with how computers worked on a technical level, I became the go-to tech support for family and friends from a young age. This passion intensified at Apple, where I was immersed in cutting-edge tech daily which fuelled my curiosity further.
-- Music 🎸 - My ability to self learn and perseverance with new challenges stems from when I taught myself guitar in my early teens. It is a passion I wasn't going to give up on no matter what. I played in multiple bands until my late twenties and unknowingly it taught me the value of teamwork.
-- 🎮 Gaming - I was a massive console gamer when I was growing up. Games like Tony Hawk's Pro Skater and Guitar Hero consumed my free time in my teens. I've also thoroughly enjoyed modern franchises such as Halo, Hitman and the Batman Arkham series. Lately, retro games have always been a nostalgic ride for me."
 
 <a href="#top">↑ Back to Menu ↑</a>
 
