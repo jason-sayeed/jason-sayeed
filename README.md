@@ -51,7 +51,7 @@ I'm open to opportunities that involve learning new languages and technologies.
 | <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge" height="40"></span> </div> | | <div align="center"> <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" height="40" style="background-color: white;"> </div> | <div align="center"><img src="https://images.opencollective.com/typeorm/108c5fb/logo/256.png" alt="TypeORM Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/TypeORM-007acc?style=for-the-badge&labelColor=white&color=white" height="40" style="vertical-align: middle;"></span> | 
 | | | | <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" alt="Mongoose Icon" height="40" style="vertical-align: middle;"> <span><img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge" height="40"></span> </div> | | |
 | | | | <div align="center"><img src="https://img.shields.io/badge/Passport.js-grey?style=for-the-badge&labelColor=grey&logo=passport&logoColor=%2334E27A" alt="Passport.js Badge" height="40" style="vertical-align: middle;">
-</div> |
+</div>
 
 
 ### Other Technical Skills:
