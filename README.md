@@ -25,8 +25,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Coding Experience](#coding-experience)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Skills](#skills)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Work Experience](#work-experience)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Education & Other](#education--other)
@@ -90,25 +88,6 @@ London, UK
 - Worked as part of a team (Agile scrum environment) on the above projects, using Github for code collaboration and implemented CI-CD when possible.
 - Used Agile methodologies to manage project workflows and enhance team collaboration.
 - Learned about web security, networking, and cloud technologies to ensure the development of clean, maintainable and efficient code.
-
-<a href="#top">↑ Back to Menu ↑</a>
-
-<br>
-
-# Skills
-
-### Communication
-- In my last two roles, communication was the key skill that enabled me to excel. As a Technical Support Manager at OnSolve, I established strong working relationships with my team to ensure we provided the best support possible. This was achieved through open and honest dialogue and fostering an environment where there was no such thing as a stupid question. I held weekly one-on-one meetings and promoted feedback and constructive criticism to aid in strengthening relationships. As a result, my team trusted me in times of need and knew my door was always open, as I would have regular interactions with them outside of our weekly meetings. We achieved a staff retention rate of 100% over three years and consistently received positive feedback from Senior Management and other teams.<br>
-My time as a Technical Manager/Specialist at Apple involved significant engagement with the public. While dealing with the public can seem like a stressful and arduous task, it instead helped me develop excellent listening skills and a genuine empathy for others. On a few occasions, customers had computers beyond repair but had valuable data they wanted to retrieve. Despite having limited appointment times, I would go above and beyond to help them retrieve their data by working on retrieving as much data as I could in between other appointments. I received heartfelt thanks from the customers, and Senior Management expressed their appreciation for my ability to go above and beyond without impacting the other appointments I had to take.
-
-### Teamwork
-- Working in a team environment is where I thrive. Throughout my career, I have excelled in roles that involve collaborating with teams of varying sizes. I find that working alongside others brings out the best in me, as I enjoy the exchange of ideas and perspectives. In positions where I have held seniority within the team, a key focus of mine has always been to share my wealth of knowledge with new team members and those I manage.
-During my time at Makers, the group projects were my first experiences in a software engineering environment. Despite this, I readily took on leadership roles when they were needed and encouraged everyone to contribute ideas and thoughts in a kind and considerate manner. We adopted Agile methodologies, which facilitated a collaborative and iterative approach to our projects. I ensured that every team member had a voice that was heard by asking others for their opinion on topics discussed in our daily standups and meetings. This approach ensured transparency and continuous improvement. One of my aims for these projects was for contributions in the team to feel equal and valued.
-
-### Problem Solving
-- At Apple, I learnt very quickly about working to tight deadlines, and I found learning key problem-solving techniques was essential in achieving them. A few of the many techniques I acquired include breaking problems down into smaller, manageable parts, prioritizing problem isolation rather than addressing the symptoms, documenting problems and solutions for future reference, and partnering with peers to get their opinion and advice when needed. Additionally, learning not to rush despite having deadlines to meet meant that I was able to focus better and work methodically. Often, when new hardware was released at short notice, I found myself in appointments where I wasn't completely sure of the root cause of the issue or the right solution due to my lack of experience. Instead of panicking, I utilized the tools around me. If time permitted, I asked other technicians if they had encountered the issue before and their solutions. When time was limited, I booked the machine in for further investigation. This allowed me time to break the problem down, consult repair guides and documentation, and pair with senior team members to learn from them and exchange ideas.<br>
-This emphasis on methodical problem-solving was reinforced during my time at Makers through group projects and pair programming sessions. Challenges were inevitable, but I maintained a calm and methodical approach, following systematic steps to help my pair and my team overcome them.
- 
 
 <a href="#top">↑ Back to Menu ↑</a>
 
